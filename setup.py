@@ -10,6 +10,8 @@ setup(
             'foot-fixtures = foot-fixtures:main',
         ],
     },
+    url = 'https://github.com/supercr7/foot-fixtures',
+    download_url = 'https://github.com/supercr7/foot-fixtures/tarball/1.0'
     install_requires=[
         'colorama==0.3.1'
     ],

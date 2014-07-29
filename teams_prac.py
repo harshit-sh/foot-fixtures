@@ -1,3 +1,5 @@
+# teams.prac.py
+
 teams_list = [{"Real Madrid" : [["Cordoba", "24.8.2014", "Home"],["Real Sociedad", "31.8.2014","Away"],
 	["Atletico Madrid","14.9.2014","Home"], ["Deportivo", "21.9.2014","Away"],
 	["Elche","24.9.2014","Home"], ["Villarreal", "28.9.2014","Away"],

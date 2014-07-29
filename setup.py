@@ -1,10 +1,11 @@
-#from setuptools import setup
 from distutils.core import setup
 
 setup(
     name='foot-fixtures',
-    version='1.0.2',
+    version='1.0.3',
+    author = 'Harshit Sharma',
     author_email='hsharma1205@gmail.com',
+    description = 'Utility to find schedule for a football club',
 	py_modules=['fixtures','teams_prac','codes'],
     entry_points={
         'console_scripts': [
@@ -12,7 +13,7 @@ setup(
         ],
     },
     url = 'https://github.com/supercr7/foot-fixtures',
-	download_url = 'https://github.com/supercr7/foot-fixtures/tarball/1.7',
+	download_url = 'https://github.com/supercr7/foot-fixtures/tarball/1.8',
     install_requires=[
         'colorama==0.3.1'
     ],

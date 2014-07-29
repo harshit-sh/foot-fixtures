@@ -1,3 +1,5 @@
+# codes.py
+
 code_dict1 = {'Arsenal' : 'ARS','Aston Villa': 'AVL','Burnley': 'BUR','Chelsea': 'CHE','Crystal Palace': 'CRY',
 	'Everton': 'EVE','Hull City':'HUL','Leicester City':'LEI','Liverpool': 'LIV','Manchester City':'MCI',
 	'Manchester United':'MUN','Newcastle United':'NEW','Queens Park Rangers':'QPR',

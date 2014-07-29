@@ -1,4 +1,5 @@
-from setuptools import setup
+#from setuptools import setup
+from distutils.core import setup
 
 setup(
     name='foot-fixtures',
@@ -11,7 +12,7 @@ setup(
         ],
     },
     url = 'https://github.com/supercr7/foot-fixtures',
-	download_url = 'https://github.com/supercr7/foot-fixtures/tarball/1.5',
+	download_url = 'https://github.com/supercr7/foot-fixtures/tarball/1.6',
     install_requires=[
         'colorama==0.3.1'
     ],

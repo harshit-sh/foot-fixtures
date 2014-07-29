@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import argparse
 import colorama
 from teams_prac import teams_list

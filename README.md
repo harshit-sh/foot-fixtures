@@ -1,13 +1,13 @@
 foot-fixtures
 =============
 
-Prints league fixtures for clubs ( currently for Liverpool, Arsenal, Chelsea, Real Madrid, and Barcelona )
+Brings league fixtures for clubs to your terminal (currently for Liverpool, Arsenal, Chelsea, Real Madrid, and Barcelona)
 
-##Installing
+### Installation
 
 Use ```$ pip install foot-fixtures```
 
-##Usage
+### Usage
 
 1. ```codes``` : Prints club codes
 		
@@ -27,6 +27,4 @@ Use ```$ pip install foot-fixtures```
                                  23.8.2014 Away                                  
 
                                  28.2.2015 Home                                   
-  
-
-	
+ 	
